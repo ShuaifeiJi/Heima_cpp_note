@@ -1,0 +1,23 @@
+﻿生成启动时间为 2021/2/13 9:09:47。
+     1>项目“E:\lesson06C++核心编程-类和对象\lesson06C++核心编程-类和对象\lesson06C++核心编程-类和对象.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt circle.cpp "p105类和对象-封装-设计案例-点和圆的关系.cpp"
+         p105类和对象-封装-设计案例-点和圆的关系.cpp
+         circle.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\lesson06C++核心编程-类和对象\Debug\lesson06C++核心编程-类和对象.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\lesson06C++核心编程-类和对象\Debug\lesson06C++核心编程-类和对象.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\lesson06C++核心编程-类和对象\Debug\lesson06C++核心编程-类和对象.lib" /MACHINE:X86 Debug\circle.obj
+         "Debug\p100类和对象-封装-案例-设计学生类.obj"
+         "Debug\p101类和对象-封装-访问权限.obj"
+         "Debug\p102类和对象-封装-c++中class和struct的区别.obj"
+         "Debug\p103类和对象-封装-成员属性私有化.obj"
+         "Debug\p104类和对象-封装-案例-设计立方体类.obj"
+         "Debug\p105类和对象-封装-设计案例-点和圆的关系.obj"
+         "Debug\p99类和对象-封装-属性和行为作为主体.obj"
+         Debug\point.obj
+         lesson06C++核心编程-类和对象.vcxproj -> E:\lesson06C++核心编程-类和对象\Debug\lesson06C++核心编程-类和对象.exe
+     1>已完成生成项目“E:\lesson06C++核心编程-类和对象\lesson06C++核心编程-类和对象\lesson06C++核心编程-类和对象.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.31
